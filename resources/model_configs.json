@@ -1,0 +1,30 @@
+{
+    "yara": {
+        "temp": 0.82,
+        "top-k": 82,
+        "top-p": 0.21,
+        "typical": 1,
+        "repeat-penalty": 1.19
+    },
+    "shortwave": {
+        "temp": 1.53,
+        "top-k": 33,
+        "top-p": 0.64,
+        "typical": 1,
+        "repeat-penalty": 1.19 
+    },
+    "kobold-godlike": {
+        "temp": 0.7,
+        "top-k": 0,
+        "top-p": 0.5,
+        "typical": 0.19,
+        "repeat-penalty": 1.1
+    },
+    "midnight-enigma": {
+        "temp": 0.98,
+        "top-k": 100,
+        "top-p": 0.37,
+        "typical": 1,
+        "repeat-penalty": 1.18
+    }
+}

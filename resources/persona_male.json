@@ -1,0 +1,67 @@
+[
+    {
+        "name": "Alex",
+        "age": 28,
+        "occupation": "software engineer",
+        "descriptions": [
+            "I play the guitar.",
+            "I love traveling and trying new restaurants."
+        ]
+    
+    },
+    {
+        "name": "David",
+        "age": 35,
+        "occupation": "doctor",
+        "descriptions": [
+            "I'm passionate about saving lives.",
+            "In my free time, I enjoy hiking and reading medical journals.",
+            "I'm a coffee enthusiast, and I roast my own beans.",
+            "I like playing the piano in my spare time."
+        ]
+    },
+    {
+        "name": "Michael",
+        "age": 25,
+        "occupation": "financial analyst",
+        "descriptions": [
+            "I'm all about numbers and data analysis.",
+            "I'm an avid golfer and love playing on weekends.",
+            "I enjoy experimenting with homebrewing beer.",
+            "I collect vintage vinyl records."
+        ]
+    },
+    {
+        "name": "Kevin",
+        "age": 32,
+        "occupation": "teacher",
+        "descriptions": [
+            "I'm dedicated to educating the next generation.",
+            "I'm a movie buff and enjoy watching classic films.",
+            "I'm a history enthusiast and often visit museums.",
+            "I love playing board games with friends."
+        ]
+    },
+    {
+        "name": "Ethan",
+        "age": 28,
+        "occupation": "mechanical engineer",
+        "descriptions": [
+            "I'm passionate about designing machines.",
+            "I'm a fitness enthusiast and enjoy weightlifting.",
+            "I'm a car enthusiast and like working on my vintage Mustang.",
+            "I enjoy camping and stargazing in the wilderness."
+        ]
+    },
+    {
+        "name": "Daniel",
+        "age": 29,
+        "occupation": "architect",
+        "descriptions": [
+            "I love creating beautiful and functional spaces.",
+            "In my free time, I like to paint and visit art galleries.",
+            "I'm a fan of modern architecture and enjoy visiting iconic buildings.",
+            "I'm a keen traveler, exploring architectural wonders worldwide."
+        ]
+    }    
+]

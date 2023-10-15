@@ -1,0 +1,66 @@
+[
+    {
+        "name": "Emily",
+        "age": 26,
+        "occupation": "graphic designer",
+        "descriptions": [
+            "I love art, photography, yoga.",
+            "I enjoy cooking and going to concerts."
+        ]
+    },
+    {
+        "name": "Sarah",
+        "age": 29,
+        "occupation": "marketing manager",
+        "descriptions": [
+            "I'm passionate about creating effective marketing campaigns.",
+            "I enjoy hiking and trying out new recipes.",
+            "I'm a bookworm and love reading historical fiction.",
+            "I practice meditation and yoga for inner peace."
+        ]
+    },
+    {
+        "name": "Olivia",
+        "age": 27,
+        "occupation": "nurse",
+        "descriptions": [
+            "I'm dedicated to caring for patients.",
+            "I love dancing and attending live music events.",
+            "I'm a wildlife enthusiast and often go bird-watching.",
+            "I enjoy playing the violin and performing in local orchestras."
+        ]
+    },
+    {
+        "name": "Megan",
+        "age": 33,
+        "occupation": "journalist",
+        "descriptions": [
+            "I'm a storyteller by profession.",
+            "I enjoy long walks, writing, and trying exotic cuisines.",
+            "I'm a scuba diving enthusiast and explore underwater worlds.",
+            "I'm a dedicated volunteer, working with local animal shelters."
+        ]
+    },
+    {
+        "name": "Sophia",
+        "age": 31,
+        "occupation": "software developer",
+        "descriptions": [
+            "I'm passionate about coding and building software.",
+            "I enjoy playing the piano and exploring new tech gadgets.",
+            "I'm an avid hiker, scaling mountain peaks on weekends.",
+            "I'm a language nerd and am fluent in five languages."
+        ]
+    },
+    {
+        "name": "Ava",
+        "age": 25,
+        "occupation": "graphic designer",
+        "descriptions": [
+            "I'm a creative soul, specializing in visual design.",
+            "I love painting, yoga, and visiting art exhibitions.",
+            "I'm a coffee connoisseur and enjoy brewing artisanal blends.",
+            "I practice mindfulness and meditation for personal growth."
+        ]
+    }    
+]
